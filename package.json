@@ -1,0 +1,24 @@
+{
+  "name": "c20-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmsherry/c20-netlify-serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/jmsherry/c20-netlify-serverless/issues"
+  },
+  "homepage": "https://github.com/jmsherry/c20-netlify-serverless#readme",
+  "dependencies": {
+    "netlify-cli": "^23.0.0"
+  }
+}
